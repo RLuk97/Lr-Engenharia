@@ -1,3 +1,7 @@
 # NLW-Rocketseat-HTML-CSS-JS
 
-## Tecnologias U
+## Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+- GitHub
