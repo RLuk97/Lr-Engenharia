@@ -1,4 +1,4 @@
-# NLW-Rocketseat-HTML-CSS-JS
+# Quiz JS
 
 ## Tecnologias Utilizadas
 - HTML
